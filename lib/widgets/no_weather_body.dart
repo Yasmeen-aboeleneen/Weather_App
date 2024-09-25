@@ -7,7 +7,6 @@ class NoWeatherBody extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // var h = MediaQuery.of(context).size.height;
     var w = MediaQuery.of(context).size.width;
     return Column(
       mainAxisAlignment: MainAxisAlignment.center,
